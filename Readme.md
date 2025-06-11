@@ -1,4 +1,4 @@
-
+Here is the steps of project with related commands
 
 1-Creating namespace:
 	kubectl create namespace limited-ns
